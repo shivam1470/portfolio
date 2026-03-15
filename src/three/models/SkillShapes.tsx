@@ -92,8 +92,9 @@ export default function SkillShapes() {
 
   useFrame((state) => {
     if (!groupRef.current) return;
-    groupRef.current.rotation.y = state.clock.getElapsedTime() * 0.05;
-    groupRef.current.rotation.x = Math.sin(state.clock.getElapsedTime() * 0.05) * 0.1;
+    const time = state.clock.getElapsedTime();
+    groupRef.current.rotation.y = time * 0.05;
+    groupRef.current.rotation.x = Math.sin(time * 0.05) * 0.1;
   });
 
   return (

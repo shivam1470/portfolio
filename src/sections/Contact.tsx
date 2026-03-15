@@ -88,7 +88,7 @@ export default function Contact() {
             <Card className="p-10 text-center border-dashed border-gray-800 bg-indigo-900/5">
               <h3 className="text-2xl font-bold text-white mb-8">Follow My Professional Journey</h3>
               <div className="flex flex-wrap justify-center gap-6">
-                {socials.map((social, index) => (
+                {socials.map((social) => (
                   <motion.a
                     key={social.name}
                     href={social.url}
