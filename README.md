@@ -3,7 +3,7 @@
 A high-performance, interactive 3D portfolio built with **React**, **TypeScript**, **Three.js**, and **Tailwind CSS**. This project showcases my journey as a Senior Software Engineer through immersive storytelling and modern web technologies.
 
 ## 🚀 Live Demo
-- **Portfolio:** [Coming Soon]
+- **Portfolio:** https://shivam-mishra-sde.netlify.app/
 - **Resume:** Included in the `/public` directory.
 
 ## ✨ Key Features
