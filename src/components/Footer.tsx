@@ -5,7 +5,6 @@ export default function Footer() {
     <footer className="py-12 px-8 bg-black border-t border-gray-900">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
         <div>
-          <h2 className="text-2xl font-bold text-white mb-2">SM</h2>
           <p className="text-gray-500 text-sm max-w-xs text-center md:text-left">
             Built with React, TypeScript, Three.js and Tailwind CSS.
             Designed for high performance and interactive storytelling.
