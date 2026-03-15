@@ -11,7 +11,8 @@ export default function CanvasContainer({ children }: Props) {
   return (
     <Canvas
       camera={{ position: [0, 2, 6], fov: 50 }}
-      style={{ width: "100%", height: "100vh" }}
+      className="w-full h-full"
+      style={{ background: "transparent" }}
     >
       <Suspense fallback={null}>
         <SceneLights />
