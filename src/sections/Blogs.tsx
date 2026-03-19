@@ -7,7 +7,7 @@ const blogs = [
     title: "Automating End-to-End Test Scaffolding in NestJS with nest-e2e-gen",
     excerpt: "Learn how to significantly reduce setup time and ensure testing best practices by automating E2E test generation in NestJS applications.",
     date: "Sep 19, 2025",
-    link: "https://shivammishr16.medium.com/automating-end-to-end-test-scaffolding-in-nestjs-with-nest-e2e-gen-796969696969",
+    link: "https://medium.com/@shivammishr16/automating-end-to-end-test-scaffolding-in-nestjs-with-nest-e2e-gen-09887888999c",
     category: "Testing",
   },
   {
@@ -21,7 +21,7 @@ const blogs = [
     title: "A Roadmap to Becoming a React Developer in 2024: A Comprehensive Guide 🚀",
     excerpt: "Everything you need to know to master React in 2024, from fundamental concepts to advanced patterns and ecosystem tools.",
     date: "Nov 14, 2023",
-    link: "https://shivammishr16.medium.com/a-roadmap-to-becoming-a-react-developer-in-2024-a-comprehensive-guide-796969696969",
+    link: "https://medium.com/@shivammishr16/a-roadmap-to-becoming-a-react-developer-in-2024-a-comprehensive-guide-760966767643",
     category: "Frontend",
   },
 ];
